@@ -10,3 +10,5 @@
 Kitos idėjos:
 * Gražulio konferencija
 * Kirkilo krizė
+* Nausėdos stuburas
+* Nausėdos kūčiukai
